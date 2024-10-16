@@ -2,13 +2,13 @@ import { FirebaseOptions, initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseOptions: FirebaseOptions = {
-  apiKey: process.env.GATSBY_FIREBASE_API_KEY,
-  authDomain: process.env.GATSBY_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.GATSBY_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.GATSBY_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.GATSBY_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.GATSBY_FIREBASE_APP_ID,
-  measurementId: process.env.GATSBY_FIREBASE_MEASUREMENT_ID,
+  apiKey: "AIzaSyBdxz_Ri5wK-df4wL2ZFNcAG5bwSI9b2-Y",
+  authDomain: "chiangtale.firebaseapp.com",
+  projectId: "chiangtale",
+  storageBucket: "chiangtale.appspot.com",
+  messagingSenderId: "570297251521",
+  appId: "1:570297251521:web:d8ff95eb2982153052c640",
+  measurementId: "G-XYRYH11FWN"
 };
 
 const app = initializeApp(firebaseOptions);
