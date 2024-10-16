@@ -28,11 +28,11 @@ function Home() {
           <span className="text-gray-900 font-medium bg-white bg-opacity-70 py-2 px-4 text-3xl md:text-2xl inline-block mt-2">
             {primary ? (
               <>
-                인호 <span className="text-xl">&</span> 아름
+                인호 <span className="text-xl">&</span> 쥰횬횬횬횬횬
               </>
             ) : (
               <>
-                아름 <span className="text-xl">&</span> 인호
+                아름 <span className="text-xl">&</span> 쥰횬횬횬횮ㄶㄴ
               </>
             )}
           </span>
