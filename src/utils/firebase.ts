@@ -7,8 +7,8 @@ const firebaseOptions: FirebaseOptions = {
   projectId: "chiangtale",
   storageBucket: "chiangtale.appspot.com",
   messagingSenderId: "570297251521",
-  appId: "1:570297251521:web:d8ff95eb2982153052c640",
-  measurementId: "G-XYRYH11FWN"
+  appId: "1:570297251521:web:56acf621178e87f552c640",
+  measurementId: "G-QDWJTMP70D"
 };
 
 const app = initializeApp(firebaseOptions);
